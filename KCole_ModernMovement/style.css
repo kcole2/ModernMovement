@@ -1,0 +1,25 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Major+Mono+Display');
+</style>
+
+h1 {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 20pt;
+  font-family: 'Major Mono Display', monospace;
+  width: 100vw;
+  height: 100vh;
+}
+
+body {
+  margin: 10;
+  padding: 0;
+  border: 0;
+  font-size: 12pt;
+  font-family: 'EB Garamond', serif;
+  width: 100vw;
+  height: 100vh;
+}
+
+
